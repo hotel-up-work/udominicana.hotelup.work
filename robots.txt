@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://udominicana.webart.work/sitemap.xml
+Sitemap: https://udominicana.hotelup.work/sitemap.xml
